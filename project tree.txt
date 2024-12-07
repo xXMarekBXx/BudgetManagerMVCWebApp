@@ -1,0 +1,45 @@
+objectWebApp/
+│
+├── controllers/
+│   ├── AuthController.php
+│   ├── ChangeEmailController.php
+│   ├── ChangeNameController.php
+│   ├── ChangePassController.php
+│   ├── ExpensesController.php 
+│   ├── IncomeController.php
+│   ├── MenuController.php
+│   ├── RegistrationController.php
+│   ├── SettingsController.php
+│
+├── css/
+│
+├── js/
+│
+├── models/
+│   ├── BalanceSheetModel.php
+│   ├── ChangeEmailModel.php
+│   ├── ChangeNameModel.php
+│   ├── ChangePassModel.php
+│   ├── ExpensesModel.php  
+│   ├── IncomeModel.php
+│   ├── MenuModel.php
+│   ├── SettingsModel.php
+│   ├── User.php
+│   ├── UserModel.php
+│
+├── views/
+│   ├── BalanceSheetView.php
+│   ├── ChangeEmailView.php
+│   ├── ChangeNameView.php
+│   ├── ChangePassView.php
+│   ├── ExpenseView.php
+│   ├── IncomeView.php
+│   ├── login.php
+│   ├── MenuView.php
+│   ├── RegistrationView.php
+│   ├── SettingsView.php
+│
+├── .env
+├── connect.php
+├── index.php
+└── styles.css
